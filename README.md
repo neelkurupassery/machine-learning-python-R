@@ -6,4 +6,4 @@ Three main data sources without direct access to data:
 2) Open source data sets (have to consider any obfuscation)
 
 3) Clinical Trials Gov datasets (10 GB of XMLs)
-I've converted these to JSON to more easily probe and perform machine learning tests / NLP. 
+I've converted these to JSON to more easily probe and perform machine learning tests in classification / NLP. 
