@@ -7,3 +7,9 @@ Three main data sources without direct access to data:
 
 3) Clinical Trials Gov datasets (10 GB of XMLs)
 I've converted these to JSON to more easily probe and perform machine learning tests in classification / NLP. 
+
+----------
+
+I consider two applications: 
+(1) Clinical Trials
+(2) Chess
